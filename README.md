@@ -42,4 +42,6 @@ https://www.cnblogs.com/famine/p/10090022.html
 ## 日志
 
  - 2021.01.12 发布V0.2
-   新增功能：点击按钮即可发送cookie值到服务器（根据接收程序）。接收程序将于1月12日晚发布。
+   新增功能：点击按钮即可发送cookie值到服务器（根据接收程序）。已发布接收程序 [地址](https://github.com/Famine-Life/get12306cookieByJava)
+
+ - 2021.01.13 新增功能：登录12306后，点击按钮，一键启动linux服务器上的抢票程序。
