@@ -3,6 +3,10 @@
 一键安装地址：
 [地址](https://greasyfork.org/zh-CN/scripts/419934-%E8%8E%B7%E5%8F%9612306cookie%E5%80%BC)
 
+# 接收cookie值的程序：
+
+[get12306cookieByJava](https://github.com/Famine-Life/get12306cookieByJava)
+
 ## 目标
 我们的目的是方便、快速的获取到抢票需要的cookie值，例如
 ```
